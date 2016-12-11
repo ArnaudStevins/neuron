@@ -1,2 +1,2 @@
 # neuron
-My experiences on neural networking in python
+My experiences on neural networks programming in python
